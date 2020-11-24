@@ -58,6 +58,8 @@ int main()
 	// ------------------------------------
 	Shader ourShader("data/shader/shader.vs", "data/shader/shader.fs");
 
+
+	//test
 	// set up vertex data (and buffer(s)) and configure vertex attributes
 	// ------------------------------------------------------------------
 	float vertices[] = {
